@@ -4,7 +4,7 @@
   var bt = {};
   
   var f_id_top = 'ABCDEFGHIJ';
-  var f_id_bot = '12345678910';
+  var f_id_bot = '188978402';
   
   bt.genMap = function()
   {
