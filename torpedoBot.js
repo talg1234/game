@@ -453,7 +453,7 @@
 		}
 		_messageOffset = updateObj.result[updateObj.result.length-1].update_id;
 	}
-    botHttp.subscribe("torpedo", botEndPoint, undefined, 
+    botHttp.subscribe("sink", botEndPoint, undefined, 
      -1);
     //5000);
 }());
